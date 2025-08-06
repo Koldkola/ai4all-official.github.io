@@ -1,4 +1,4 @@
-# Water and Sanitation in urban populations 
+# Assessing the Path to Improved Water and Sanitation Access in Urban Areas
 
 By analyzing the historical data of a handful of countries given in our dataset from the years 1990 to 2023 to see the difference in improved water and sanitation access and how it has changed over the years. This project provides data driven insights that can inform decision making and contribute to efforts aimed at improving urban living conditions and public health worldwide
 
